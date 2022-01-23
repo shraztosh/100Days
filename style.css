@@ -10,9 +10,11 @@ h1{
 }
 
 div#main{
+    left: 25%;
     padding: 10px;
     background-color: rgba(255,255,255,0.75);
     max-width:50%;
+    position: relative;
 }
 
 img{
