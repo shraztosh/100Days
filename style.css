@@ -10,15 +10,12 @@ h1{
 }
 
 div#main{
-    left: 10%;
-    top: 15%;
-    height: 70%;
-    width: 80%;
-    background-color: rgba(255,255,255,0.7);
-    padding: 20px;
+    padding: 10px;
+    background-color: rgba(255,255,255,0.75);
+    max-width:50%;
 }
 
 img{
-    height: 100%;
-    width: 100%;
+    max-height: 50%;
+    max-width: 100%;
 }
