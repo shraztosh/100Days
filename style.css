@@ -1,0 +1,9 @@
+body{
+    background: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("Photos/b.jpg");
+}
+h1{
+    color: antiquewhite;
+}
